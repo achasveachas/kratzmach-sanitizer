@@ -1,6 +1,6 @@
 # Kratzmach Sanitizer
 
-Kratzmach Sanitizer is a program that uses regex to remove any instance ofthe word Kratzmach (feh!) with the word "Chanukah".
+Kratzmach Sanitizer is a program that uses regex to remove any instance ofthe word Kratzmach (feh!), or any other variation on the holiday name (Christmas, Xmas, Nel, Yule, etc.) with the word "Chanukah".
 
 ## Dependencies
 
